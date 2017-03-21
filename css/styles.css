@@ -26,3 +26,9 @@ div.intro {
   font-family: 'Cormorant Garamond', serif;
   font-size: 16px;
 }
+
+.border1 {
+  border-style: solid;
+  border-color: red;
+  border-width: 5px;
+}
